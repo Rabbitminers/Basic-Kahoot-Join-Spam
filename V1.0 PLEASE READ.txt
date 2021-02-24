@@ -1,0 +1,13 @@
+Kahoot Join V1.0 by Rabbitminers
+
+Very early proof of concept, code will be re-written more efficently and will become more customisable in future updates.
+If you wish to add to what I have made, you are welcome to but please make sure to leave credit.
+
+Requirements
+-selenium (pip install selenium for windows users)
+-python 3 or higher
+-chromedriver to be placed in your PATH (either search for a tutroial or follow this link https://chromedriver.chromium.org/)
+
+
+Any wanted features, just ask :)
+- Rabbitminers
